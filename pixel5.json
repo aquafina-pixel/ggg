@@ -1,0 +1,78 @@
+{
+"survey_title": "",  
+"survey_content": "",  
+"survey_type": "",  
+"survey_link": "",  
+"left_menu_image":"https://i.imgur.com/7BIRu4g.png",  
+"lite_mode":false,
+"content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  
+"package_not_support_audio":"org.videolan.vlc",  
+"link_not_audio":"https://archive.org/download/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com/vlc317.apk",  
+"update_isforce":false,  
+"update_isapk":true,  
+"update_title":"Update new version",  
+"update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
+<br></br>
+<b>Release Info</b>
+<br>- Version: 2.5.5</br>
+<br>- Size: 16.2MB</br>
+<br>- Filelinked code: 30837432</br>
+<br>- FireDL code: 341334</br>
+<br></br>
+<br><b>Change logs</b></br>
+<br>- Add option to delete watchlist, collection.</br>
+<br>- Fix crash for Real-debrid user.</br>
+<br>- Add 5 link providers.</br>",  
+"update_build":"66",  
+"update_version":"2.5.5",  
+"update_link":"https://github.com/BeeApp11/RA2/releases/download/2.5.5/2.5.5.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/yka5t3tbhlm56lw/2.5.5.apk",
+"pkg_uninstall":"com.medianet.gl",  
+"pkg_uninstall_247":"",
+"pkg_uninstall_content":"Please uninstall old version",
+"http_config":"https",
+"gg_analytics_key":"UA-130029478-6",  
+"tmdb_key":"833b8b6985eae013e96a655bc39ae20d",
+"ads_priority":"amazon",
+"text_link":"https://play.google.com/store/apps/details?id=com.busydev.onesaver",
+"text_content":"The Boys Season 2 is now available",
+"text_title":"The Boys",
+"text_type":"tv",
+"text_id":"76479",
+"custom_fullads_photo":"https://affiliategroove.com/accounts/default1/banners/2f9bee50.gif",
+"custom_fullads_link":"https://www.ipvanish.com/?a_bid=48f95966&a_aid=5e9812c56892f",
+"custom_fullads_gif":false,
+"custom_fullads_enable":false,
+"menu_text_tv":"",
+"menu_link_tv":"",
+"menu_link_phone":"https://play.google.com/store/apps/details?id=save.allmedia.net",
+"menu_text_phone":"Download Instagram, Tiktok, Facebook Video",
+"enable_cms":"0",
+"show_ads":"1",
+"enable_install_player":true,
+"title_player":"One Player",
+"description_player":"Best player to work with BeeTV. Less ads and better streaming!",
+"link_download_player":"https://github.com/novaapk/hello-world/releases/download/a5/oneplayer_v1.1.5r.apk",
+"package_name_player":"com.one.player",
+"enable_amz":true,
+"adoech_enable":false,
+"oneplayer_version_build":"16",
+"openload_key":"DtsBlkVFQx",
+"ogury_enable":false,
+"enable_pokkt":false,
+"enable_admob":true,
+"op_user_agent":"novaapp 1.0.0",
+"ogr_key":"OGY-2EE43D260DB3",
+"openload_domain":"https://openload.co",
+"is_banner_auto":false,
+"banner_photo":"",
+"banner_link":"",
+"banner_text":"",
+"priorirty_custom_ads":false,
+"mixdrop_config":"Cgp2YXIgaW50ZXJ2YWw7CnZhciBjb3VudCA9IDA7CgoKZ2V0Q29kZU1peERyb3AgPSAoKSA9PiB7CiAgICBpbnRlcnZhbCA9IHNldEludGVydmFsKGdldERhdGEsIDMwMCk7Cn0KCmdldERhdGEgPSAoKSA9PiB7CiAgICB2YXIgY29kZSA9IE1EQ29yZTsKICAgIGlmKGNvZGUgIT09IHVuZGVmaW5lZCAmJiBjb2RlLnd1cmwgIT09IG51bGwgJiYgY29kZS53dXJsLmxlbmd0aCA+IDApewogICAgICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOwogICAgICAgIEFuZHJvaWQucmV0dXJuTGluayhjb2RlLnd1cmwpOwogICAgfWVsc2V7CiAgICAgICAgY291bnQgPSBjb3VudCArIDE7CiAgICAgICAgaWYoY291bnQgPT0gNjApewogICAgICAgICAgICBjbGVhckludGVydmFsKGludGVydmFsKTsKICAgICAgICAgICAgQW5kcm9pZC50aW1lb3V0KCk7CiAgICAgICAgfQogICAgfQoKfQ==",
+"mixdrop_domain":"mixdrop.co",
+"site_cookie":"",
+"site_cookie_test":"https://www5.123movies.ag, https://soap2day.to, http://www.seehd.pl, https://www8.series9.to, https://www.uwatchfree.ch/?s=&submit=Search, https://newepisodes.co",
+"captcha_cookie_test":"https://cinewhale.com, https://hdmo.tv, https://www4.watchfree.ac/",
+"collection":"eyJpbmZvIjogWyB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDE0NTg2MSwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIlRoZSBCZXN0IFRWIFNob3dzIG9mIDIwMjAgU28gRmFyIiB9LCB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDE0NTg4OSwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIlRoZSBCZXN0IE5ldGZsaXggU2VyaWVzIiB9LCB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDkyNTg4LCAidHlwZSI6ICJ0aGVtb3ZpZWRiIiwgIm5hbWUiOiAiV1dFICYgVUZDIFBQViIgfSwgeyAiaWQiOiAiIiwgImxpc3RfaWQiOiAxNDU4NjQsICJ0eXBlIjogInRoZW1vdmllZGIiLCAibmFtZSI6ICJUaGUgQmVzdCBIQk8gU2VyaWVzIiB9LCB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDcwNTcxODcsICJ0eXBlIjogInRoZW1vdmllZGIiLCAibmFtZSI6ICJSZW1lbWJlcmluZyBDaGFkd2ljayBCb3NlbWFuOiAxOTc24oCTMjAyMCIgfSwgeyAiaWQiOiAiIiwgImxpc3RfaWQiOiAxNDU4OTgsICJ0eXBlIjogInRoZW1vdmllZGIiLCAibmFtZSI6ICJEaXNuZXkrIFNob3dzIGFuZCBNb3ZpZXMiIH0seyAiaWQiOiAiIiwgImxpc3RfaWQiOiAxNDU4OTcsICJ0eXBlIjogInRoZW1vdmllZGIiLCAibmFtZSI6ICJBbWF6b24gUHJpbWUgU2hvd3MiIH0sIHsgImlkIjogIiIsICJsaXN0X2lkIjogMTQ1ODk2LCAidHlwZSI6ICJ0aGVtb3ZpZWRiIiwgIm5hbWUiOiAiSHVsdSBTaG93cyBhbmQgTW92aWVzIiB9LCB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDE0NTkwMiwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIlRoZSBCZXN0IE5ldGZsaXggTW92aWVzIiB9XSB9"
+}
