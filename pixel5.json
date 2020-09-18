@@ -2,7 +2,7 @@
 "content_not_support_audio":"This movie has audio which is not supported by Aquarium TV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com/vlc317.apk",  
-"update_isforce":true,  
+"update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(aquariumtv.app) to support developer.
@@ -17,11 +17,11 @@
 <br>- Add option to delete watchlist, collection.</br>
 <br>- Fix crash for Real-debrid user.</br>
 <br>- Add 5 link providers.</br>",  
-"update_build":"2",  
+"update_build":"1",  
 "update_version":"1.0.0",  
 "update_link":"https://github.com/BeeApp11/RA2/releases/download/2.5.5/2.5.5.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/yka5t3tbhlm56lw/2.5.5.apk",
-"pkg_uninstall":"com.medianet.gl",  
+"pkg_uninstall":"com.yoku.marumovie.analytics",  
 "enable_admob":false,
 "pkg_uninstall_content":"Please uninstall old version",
 "tmdb_key":"833b8b6985eae013e96a655bc39ae20d",
