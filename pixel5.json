@@ -22,6 +22,7 @@
 "update_link":"https://github.com/BeeApp11/RA2/releases/download/2.5.5/2.5.5.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/yka5t3tbhlm56lw/2.5.5.apk",
 "pkg_uninstall":"com.medianet.gl",  
+"enable_admob":false,
 "pkg_uninstall_content":"Please uninstall old version",
 "tmdb_key":"833b8b6985eae013e96a655bc39ae20d",
 "mixdrop_config":"Cgp2YXIgaW50ZXJ2YWw7CnZhciBjb3VudCA9IDA7CgoKZ2V0Q29kZU1peERyb3AgPSAoKSA9PiB7CiAgICBpbnRlcnZhbCA9IHNldEludGVydmFsKGdldERhdGEsIDMwMCk7Cn0KCmdldERhdGEgPSAoKSA9PiB7CiAgICB2YXIgY29kZSA9IE1EQ29yZTsKICAgIGlmKGNvZGUgIT09IHVuZGVmaW5lZCAmJiBjb2RlLnd1cmwgIT09IG51bGwgJiYgY29kZS53dXJsLmxlbmd0aCA+IDApewogICAgICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOwogICAgICAgIEFuZHJvaWQucmV0dXJuTGluayhjb2RlLnd1cmwpOwogICAgfWVsc2V7CiAgICAgICAgY291bnQgPSBjb3VudCArIDE7CiAgICAgICAgaWYoY291bnQgPT0gNjApewogICAgICAgICAgICBjbGVhckludGVydmFsKGludGVydmFsKTsKICAgICAgICAgICAgQW5kcm9pZC50aW1lb3V0KCk7CiAgICAgICAgfQogICAgfQoKfQ==",
