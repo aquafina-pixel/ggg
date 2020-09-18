@@ -8,19 +8,19 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(aquariumtv.app) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.5.5</br>
-<br>- Size: 16.2MB</br>
-<br>- Filelinked code: 30837432</br>
-<br>- FireDL code: 341334</br>
+<br>- Version: 1.1</br>
+<br>- Size: 14.4MB</br>
+<br>- Filelinked code: 26337862</br>
+<br>- FireDL code: 571320</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Add option to delete watchlist, collection.</br>
+<br>- Fix crash bug when playing with subtitle.</br>
 <br>- Fix crash for Real-debrid user.</br>
-<br>- Add 5 link providers.</br>",  
-"update_build":"1",  
-"update_version":"1.0.0",  
-"update_link":"https://github.com/BeeApp11/RA2/releases/download/2.5.5/2.5.5.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/yka5t3tbhlm56lw/2.5.5.apk",
+<br>- Add 10 link providers.</br>",  
+"update_build":"2",  
+"update_version":"1.1",  
+"update_link":"https://github.com/aquafina-pixel/s20ultra/releases/download/1.1/1.1.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/5ijgul9p1okexi6/1.1.apk",
 "pkg_uninstall":"",  
 "enable_admob":false,
 "pkg_uninstall_content":"Please uninstall old version",
