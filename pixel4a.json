@@ -1,11 +1,11 @@
 {
-"content_not_support_audio":"This movie has audio which is not supported by Aquarium TV, please install VLC player to play audio.",  
+"content_not_support_audio":"This movie has audio which is not supported by FilmPlus, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com/vlc317.apk",  
 "update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
-"update_content":"You cant update if you are using modded version. Please use official version on our homepage(aquariumtv.app) to support developer.
+"update_content":"You cant update if you are using modded version. Please use official version on our homepage(filmplus.app) to support developer.
 <br></br>
 <b>Release Info</b>
 <br>- Version: 1.1</br>
@@ -17,9 +17,9 @@
 <br>- Fix crash bug when playing with subtitle.</br>
 <br>- Fix crash for Real-debrid user.</br>
 <br>- Add 10 link providers.</br>",  
-"update_build":"3",  
+"update_build":"2",  
 "update_version":"1.1",  
-"update_link":"https://github.com/aquafina-pixel/s20ultra/releases/download/1.2/1.2.apk",  
+"update_link":"https://github.com/aquafina-pixel/s20ultra/releases/download/1.1/filmplus_release_v2_841.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/5ijgul9p1okexi6/1.1.apk",
 "pkg_uninstall":"",  
 "enable_admob":false,
